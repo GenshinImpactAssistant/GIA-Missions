@@ -9,7 +9,7 @@
     "missions": [
         {
             "name": "MissionGlazeLily",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionGlazeLily.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGlazeLily.py",
             "title": "Collect Glaze Lily",
             "author": "GIA",
             "tags": [
@@ -22,7 +22,7 @@
         },
         {
             "name": "MissionQingXin1",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionQingXin1.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionQingXin1.py",
             "title": "Collect Qing xin 1",
             "author": "GIA",
             "tags": [
@@ -35,7 +35,7 @@
         },
         {
             "name": "MissionCrystalfly",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionCrystalfly.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCrystalfly.py",
             "title": "Collect Crystalfly",
             "author": "GIA",
             "tags": [
@@ -48,7 +48,7 @@
         },
         {
             "name": "MissionWindwhellAster",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionWindwhellAster.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionWindwhellAster.py",
             "title": "Collect Windwhell Aster",
             "author": "GIA",
             "tags": [
@@ -61,7 +61,7 @@
         },
         {
             "name": "MissionVioletgrass3",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
             "title": "Collect Violetgrass 3",
             "author": "GIA",
             "tags": [
@@ -74,7 +74,7 @@
         },
         {
             "name": "MissionSilkFlower",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionSilkFlower.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSilkFlower.py",
             "title": "Collect 霓裳花1",
             "author": "GIA",
             "tags": [
@@ -87,7 +87,7 @@
         },
         {
             "name": "MissionSweatFlower1",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionSweatFlower1.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSweatFlower1.py",
             "title": "Collect Sweat Flower 1",
             "author": "GIA",
             "tags": [
@@ -100,7 +100,7 @@
         },
         {
             "name": "MissionCecilia",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionCecilia.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCecilia.py",
             "title": "Collect Cecilia",
             "author": "GIA",
             "tags": [
@@ -108,12 +108,12 @@
             ],
             "description": "",
             "note": "",
-            "last_update": "2023-06-04 03:06:41",
+            "last_update": "2023-06-04 03:16:15",
             "create_time": "2023-06-04 03:06:41"
         },
         {
             "name": "MissionVioletgrass1",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionVioletgrass1.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass1.py",
             "title": "Collect Violetgrass 1",
             "author": "GIA",
             "tags": [
@@ -126,7 +126,7 @@
         },
         {
             "name": "MissionJueyunChili",
-            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionJueyunChili.py",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionJueyunChili.py",
             "title": "Collect Jueyun Chili",
             "author": "GIA",
             "tags": [
