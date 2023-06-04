@@ -7,5 +7,31 @@
         "圣遗物": "与圣遗物有关的任务，如捡圣遗物狗粮。"
     },
     "missions": [
+        {
+            "name": "MissionGlazeLily",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionGlazeLily.py",
+            "title": "采集琉璃百合",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "采集约10个琉璃百合。",
+            "note": "",
+            "last_update": "2023-06-04 01:58:26",
+            "create_time": "2023-06-04 01:58:26"
+        },
+        {
+            "name": "MissionQingXin1",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionQingXin1.py",
+            "title": "采集清心1",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "无妄坡附近采集约7个清心。",
+            "note": "",
+            "last_update": "2023-06-04 01:58:26",
+            "create_time": "2023-06-04 01:58:26"
+        }
     ]
 }

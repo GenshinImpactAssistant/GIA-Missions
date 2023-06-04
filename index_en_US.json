@@ -7,5 +7,31 @@
         "Artifact": "Tasks related to artifacts, such as collecting artifact fodder."
     },
     "missions": [
+        {
+            "name": "MissionGlazeLily",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionGlazeLily.py",
+            "title": "Collect Glaze Lily",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "Collect about 10 Glaze Lily.",
+            "note": "",
+            "last_update": "2023-06-04 01:58:26",
+            "create_time": "2023-06-04 01:58:26"
+        },
+        {
+            "name": "MissionQingXin1",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionQingXin1.py",
+            "title": "Collect Qing xin 1",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "无妄坡附近采集约7个清心。",
+            "note": "",
+            "last_update": "2023-06-04 01:58:26",
+            "create_time": "2023-06-04 01:58:26"
+        }
     ]
 }
