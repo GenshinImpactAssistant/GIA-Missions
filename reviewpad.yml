@@ -6,14 +6,14 @@
 # Define the list of labels to be used by Reviewpad.
 # For more details see https://docs.reviewpad.com/guides/syntax#label.
 labels:
-  small:
-    description: Pull request is small
+  docs:
+    description: Change docs
     color: "#76dbbe"
-  medium:
-    description: Pull request is medium
+  mission:
+    description: Change missions
     color: "#2986cc"
-  large:
-    description: Pull request is large
+  index:
+    description: Change index
     color: "#c90076"
 
 # Define the list of workflows to be run by Reviewpad.
@@ -37,19 +37,6 @@ workflows:
       - if: $pullRequestCountBy($author()) == 1
         then: $commentOnce($sprintf("Thank you @%s for this first contribution! 这是你的首次贡献，好耶！", [$author()]))
 
-  # This workflow validates that pull requests follow the conventional commits specification.
-  # This helps developers automatically generate changelogs.
-  # For more details, see https://www.conventionalcommits.org/en/v1.0.0/.
-  - name: check-conventional-commits
-    description: Validate that pull requests follow the conventional commits
-    run:
-      - if: $isDraft() == false
-        then:
-          # Check commits messages against the conventional commits specification
-          - $commitLint()
-          # Check pull request title against the conventional commits specification.
-          - $titleLint()
-
   # This workflow validates best practices for pull request management.
   # This helps developers follow best practices.
   - name: best-practices
@@ -57,7 +44,7 @@ workflows:
     run:
       # Warn pull requests if their description is empty.
       - if: $description() == ""
-        then: $warn("Please provide a description for the pull request")
+        then: $warn("Please provide a description for the pull request. 请为你的PR填写描述。")
 
   # This workflow labels pull requests based on the pull request change type.
   # This helps pick pull requests based on their change type.
@@ -73,7 +60,7 @@ workflows:
         then: $addLabel("index")
         else: $removeLabel("index")
       # Label pull requests with `dependencies` if they only modify `package.json` and `package.lock` files.
-      - if: $hasFileExtensions([".py"])
+      - if: $hasFilePattern("missions/**")
         then: $addLabel("mission")
         else: $removeLabel("mission")
 
@@ -108,3 +95,8 @@ workflows:
     run:
       if: $createdAt() < 20 days ago
       then: $commentOnce("This pull request has been opened for more than 20 days. Please consider closing it!")
+  
+  - name: check-run-failure
+    run:
+      if: $hasAnyCheckRunCompleted([], ["failure"])
+      then: $review("REQUEST_CHANGES", "$sprintf(@%s Some of the pull request checks are failing. Please fix them. 有些检查失败了，请解决相关问题。", [$author()]))
