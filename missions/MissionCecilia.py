@@ -19,3 +19,4 @@ class MissionMain(MissionJustCollect):
 if __name__ == '__main__':
     mission = MissionMain()
     mission.start()
+  
