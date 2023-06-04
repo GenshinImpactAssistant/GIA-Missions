@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 import argparse
 
-SOURCE_REPO = "https://github.com/moulai/GIA-Missions"
+SOURCE_REPO = "https://github.com/GenshinImpactAssistant/GIA-Missions"
 SOURCE_BRANCH = "main"
 ROOT_PATH = Path(__file__).parent.parent
 
