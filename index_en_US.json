@@ -32,6 +32,110 @@
             "note": "",
             "last_update": "2023-06-04 01:58:26",
             "create_time": "2023-06-04 01:58:26"
+        },
+        {
+            "name": "MissionCrystalfly",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionCrystalfly.py",
+            "title": "Collect Crystalfly",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionWindwhellAster",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionWindwhellAster.py",
+            "title": "Collect Windwhell Aster",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionVioletgrass3",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
+            "title": "Collect Violetgrass 3",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionSilkFlower",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionSilkFlower.py",
+            "title": "Collect 霓裳花1",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionSweatFlower1",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionSweatFlower1.py",
+            "title": "Collect Sweat Flower 1",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionCecilia",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionCecilia.py",
+            "title": "Collect Cecilia",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionVioletgrass1",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionVioletgrass1.py",
+            "title": "Collect Violetgrass 1",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "not recommend",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionJueyunChili",
+            "url": "https://github.com/moulai/GIA-Missions/blob/main/missions/MissionJueyunChili.py",
+            "title": "Collect Jueyun Chili",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
         }
     ]
 }
