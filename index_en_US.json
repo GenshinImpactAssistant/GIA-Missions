@@ -1,0 +1,11 @@
+{
+    "about": "This file is the index of custom missions for Genshin Impact Assistant. Stored in JSON format, not suitable for direct viewing by users. Tags need to be modified in this file. Note that when modifying or adding tags, multi-language support is required, i.e. synchronize changes under index.json in all languages. The 'missions' field in this file is used to store the meta information of custom missions and cannot be manually modified. It can only be generated automatically based on custom mission files.",
+    "tags": {
+        "Collect": "'Collection operation' refers to the direct picking up of collected items by interacting with them. For example, collecting Qingxin, collecting Glaze Lily.",
+        "Combat": "The task requires combat, such as obtaining Slime Condensate.",
+        "Daily": "Some daily-related tasks, such as some tasks that repeat periodically.",
+        "Artifact": "Tasks related to artifacts, such as collecting artifact fodder."
+    },
+    "missions": [
+    ]
+}
