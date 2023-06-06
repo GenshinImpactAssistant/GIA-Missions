@@ -2,10 +2,10 @@
 存放GIA自定义任务的仓库. 你可以通过GIA下载使用,或者通过PR提交你的自定义任务.
 
 ## 自定义任务添加方法
-- 先[编写一个自定义任务](https://github.com/GenshinImpactAssistant/GIA-Document/blob/main/zh_CN/dev/mission.md)
-- 进入仓库主页面(https://github.com/GenshinImpactAssistant/GIA-Missions/tree/main)
+- 先[编写一个自定义任务](https://genshinimpactassistant.github.io/GIA-Document/#/zh_CN/dev/mission)
+- 进入仓库主页面 (https://github.com/GenshinImpactAssistant/GIA-Missions/tree/main)
 - 点击fork一份你的仓库(fork仓库可以参考[牛牛也能看懂的 GitHub Pull Request 使用指南 (*´▽｀)ノノ](https://maa.plus/docs/2.4-%E7%BA%AF%E7%BD%91%E9%A1%B5%E7%AB%AFPR%E6%95%99%E7%A8%8B.html))
-- 进入missions文件夹(https://github.com/GenshinImpactAssistant/GIA-Missions/tree/main/missions)
+- 进入missions文件夹 (https://github.com/GenshinImpactAssistant/GIA-Missions/tree/main/missions)
 - 点击Upload Files,点击Commit Changes并开启一份PR
 - 等待校验通过即可
 
