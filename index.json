@@ -8,19 +8,6 @@
     },
     "missions": [
         {
-            "name": "MissionGlazeLily",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGlazeLily.py",
-            "title": "Collect Glaze Lily",
-            "author": "GIA",
-            "tags": [
-                "Collect"
-            ],
-            "description": "Collect about 10 Glaze Lily.",
-            "note": "",
-            "last_update": "2023-06-04 01:58:26",
-            "create_time": "2023-06-04 01:58:26"
-        },
-        {
             "name": "MissionQingXin1",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionQingXin1.py",
             "title": "Collect Qing xin 1",
@@ -34,29 +21,29 @@
             "create_time": "2023-06-04 01:58:26"
         },
         {
-            "name": "MissionCrystalfly",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCrystalfly.py",
-            "title": "Collect Crystalfly",
+            "name": "MissionGlazeLily",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGlazeLily.py",
+            "title": "Collect Glaze Lily",
             "author": "GIA",
             "tags": [
                 "Collect"
             ],
-            "description": "",
+            "description": "Collect about 10 Glaze Lily.",
             "note": "",
-            "last_update": "2023-06-04 03:06:41",
-            "create_time": "2023-06-04 03:06:41"
+            "last_update": "2023-06-04 01:58:26",
+            "create_time": "2023-06-04 01:58:26"
         },
         {
-            "name": "MissionWindwhellAster",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionWindwhellAster.py",
-            "title": "Collect Windwhell Aster",
+            "name": "MissionCecilia",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCecilia.py",
+            "title": "Collect Cecilia",
             "author": "GIA",
             "tags": [
                 "Collect"
             ],
             "description": "",
             "note": "",
-            "last_update": "2023-06-04 03:06:41",
+            "last_update": "2023-06-04 03:16:15",
             "create_time": "2023-06-04 03:06:41"
         },
         {
@@ -86,9 +73,9 @@
             "create_time": "2023-06-04 03:06:41"
         },
         {
-            "name": "MissionSweatFlower1",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSweatFlower1.py",
-            "title": "Collect Sweat Flower 1",
+            "name": "MissionCrystalfly",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCrystalfly.py",
+            "title": "Collect Crystalfly",
             "author": "GIA",
             "tags": [
                 "Collect"
@@ -99,16 +86,16 @@
             "create_time": "2023-06-04 03:06:41"
         },
         {
-            "name": "MissionCecilia",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCecilia.py",
-            "title": "Collect Cecilia",
+            "name": "MissionWindwhellAster",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionWindwhellAster.py",
+            "title": "Collect Windwhell Aster",
             "author": "GIA",
             "tags": [
                 "Collect"
             ],
             "description": "",
             "note": "",
-            "last_update": "2023-06-04 03:16:15",
+            "last_update": "2023-06-04 03:06:41",
             "create_time": "2023-06-04 03:06:41"
         },
         {
@@ -125,6 +112,19 @@
             "create_time": "2023-06-04 03:06:41"
         },
         {
+            "name": "MissionSweatFlower1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSweatFlower1.py",
+            "title": "Collect Sweat Flower 1",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
             "name": "MissionJueyunChili",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionJueyunChili.py",
             "title": "Collect Jueyun Chili",
@@ -136,6 +136,19 @@
             "note": "",
             "last_update": "2023-06-04 03:06:41",
             "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionSeaGanoderma1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSeaGanoderma1.py",
+            "title": "Collect Sea Ganoderma",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "采集海灵芝",
+            "note": "",
+            "last_update": "2023-06-22 09:57:05",
+            "create_time": "2023-06-22 09:57:05"
         }
     ]
 }
