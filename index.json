@@ -8,6 +8,19 @@
     },
     "missions": [
         {
+            "name": "MissionQingXin1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionQingXin1.py",
+            "title": "Collect Qing xin 1",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "无妄坡附近采集约7个清心。",
+            "note": "",
+            "last_update": "2023-06-04 01:58:26",
+            "create_time": "2023-06-04 01:58:26"
+        },
+        {
             "name": "MissionGlazeLily",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGlazeLily.py",
             "title": "Collect Glaze Lily",
@@ -21,17 +34,30 @@
             "create_time": "2023-06-04 01:58:26"
         },
         {
-            "name": "MissionQingXin1",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionQingXin1.py",
-            "title": "Collect Qing xin 1",
+            "name": "MissionVioletgrass3",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
+            "title": "Collect Violetgrass 3",
             "author": "GIA",
             "tags": [
                 "Collect"
             ],
-            "description": "无妄坡附近采集约7个清心。",
+            "description": "",
             "note": "",
-            "last_update": "2023-06-04 01:58:26",
-            "create_time": "2023-06-04 01:58:26"
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionSilkFlower",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSilkFlower.py",
+            "title": "Collect 霓裳花1",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
         },
         {
             "name": "MissionJueyunChili",
@@ -60,22 +86,9 @@
             "create_time": "2023-06-04 03:06:41"
         },
         {
-            "name": "MissionWindwhellAster",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionWindwhellAster.py",
-            "title": "Collect Windwhell Aster",
-            "author": "GIA",
-            "tags": [
-                "Collect"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-06-04 03:06:41",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
-            "name": "MissionVioletgrass3",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
-            "title": "Collect Violetgrass 3",
+            "name": "MissionCrystalfly",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCrystalfly.py",
+            "title": "Collect Crystalfly",
             "author": "GIA",
             "tags": [
                 "Collect"
@@ -99,32 +112,6 @@
             "create_time": "2023-06-04 03:06:41"
         },
         {
-            "name": "MissionCrystalfly",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCrystalfly.py",
-            "title": "Collect Crystalfly",
-            "author": "GIA",
-            "tags": [
-                "Collect"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-06-04 03:06:41",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
-            "name": "MissionSilkFlower",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSilkFlower.py",
-            "title": "Collect 霓裳花1",
-            "author": "GIA",
-            "tags": [
-                "Collect"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-06-04 03:06:41",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
             "name": "MissionVioletgrass1",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass1.py",
             "title": "Collect Violetgrass 1",
@@ -134,6 +121,19 @@
             ],
             "description": "",
             "note": "not recommend",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionWindwhellAster",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionWindwhellAster.py",
+            "title": "Collect Windwhell Aster",
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
             "last_update": "2023-06-04 03:06:41",
             "create_time": "2023-06-04 03:06:41"
         },
@@ -162,6 +162,71 @@
             "note": "",
             "last_update": "2023-07-13 03:05:46",
             "create_time": "2023-07-13 03:05:46"
+        },
+        {
+            "name": "MissionNiShangHua",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionNiShangHua.py",
+            "title": "采集霓裳花",
+            "author": "人帅被人欺",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-11-01 18:28:15",
+            "create_time": "2023-11-01 18:28:15"
+        },
+        {
+            "name": "MissionDuDuLian",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionDuDuLian.py",
+            "title": "采集嘟嘟莲",
+            "author": "人帅被人欺",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-11-01 18:28:16",
+            "create_time": "2023-11-01 18:28:16"
+        },
+        {
+            "name": "MissionGuiDouChong1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGuiDouChong1.py",
+            "title": "采集鬼兜虫",
+            "author": "人帅被人欺",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-11-01 18:28:16",
+            "create_time": "2023-11-01 18:28:16"
+        },
+        {
+            "name": "MissionXingLuo",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionXingLuo.py",
+            "title": "采集星螺",
+            "author": "人帅被人欺",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-11-01 18:28:16",
+            "create_time": "2023-11-01 18:28:16"
+        },
+        {
+            "name": "MissionGuiDouChong",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGuiDouChong.py",
+            "title": "采集鬼兜虫",
+            "author": "人帅被人欺",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-11-01 18:28:16",
+            "create_time": "2023-11-01 18:28:16"
         }
     ]
 }
