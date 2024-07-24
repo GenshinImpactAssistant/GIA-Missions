@@ -34,9 +34,9 @@
             "create_time": "2023-06-04 01:58:26"
         },
         {
-            "name": "MissionVioletgrass3",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
-            "title": "采集琉璃袋3",
+            "name": "MissionSweatFlower1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSweatFlower1.py",
+            "title": "采集甜甜花1",
             "author": "GIA",
             "tags": [
                 "采集"
@@ -60,32 +60,6 @@
             "create_time": "2023-06-04 03:06:41"
         },
         {
-            "name": "MissionJueyunChili",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionJueyunChili.py",
-            "title": "采集绝云椒椒",
-            "author": "GIA",
-            "tags": [
-                "采集"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-06-04 03:06:41",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
-            "name": "MissionCecilia",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCecilia.py",
-            "title": "采集塞西莉亚花",
-            "author": "GIA",
-            "tags": [
-                "采集"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-06-04 03:16:15",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
             "name": "MissionCrystalfly",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCrystalfly.py",
             "title": "采集晶蝶",
@@ -99,9 +73,22 @@
             "create_time": "2023-06-04 03:06:41"
         },
         {
-            "name": "MissionSweatFlower1",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSweatFlower1.py",
-            "title": "采集甜甜花1",
+            "name": "MissionJueyunChili",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionJueyunChili.py",
+            "title": "采集绝云椒椒",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionVioletgrass3",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
+            "title": "采集琉璃袋3",
             "author": "GIA",
             "tags": [
                 "采集"
@@ -135,6 +122,19 @@
             "description": "",
             "note": "",
             "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionCecilia",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCecilia.py",
+            "title": "采集塞西莉亚花",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:16:15",
             "create_time": "2023-06-04 03:06:41"
         },
         {
@@ -177,9 +177,9 @@
             "create_time": "2023-11-01 18:28:15"
         },
         {
-            "name": "MissionDuDuLian",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionDuDuLian.py",
-            "title": "采集嘟嘟莲",
+            "name": "MissionXingLuo",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionXingLuo.py",
+            "title": "采集星螺",
             "author": "人帅被人欺",
             "tags": [
                 "采集"
@@ -203,9 +203,9 @@
             "create_time": "2023-11-01 18:28:16"
         },
         {
-            "name": "MissionXingLuo",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionXingLuo.py",
-            "title": "采集星螺",
+            "name": "MissionDuDuLian",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionDuDuLian.py",
+            "title": "采集嘟嘟莲",
             "author": "人帅被人欺",
             "tags": [
                 "采集"
@@ -227,6 +227,32 @@
             "note": "",
             "last_update": "2023-11-01 18:28:16",
             "create_time": "2023-11-01 18:28:16"
+        },
+        {
+            "name": "GIA_KalpalataLotus_3",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_KalpalataLotus_3.py",
+            "title": "GIA_KalpalataLotus_3",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "\n 必须需要纳西妲 Nahida must be needed",
+            "last_update": "2023-12-10 10:20:16",
+            "create_time": "2023-12-10 10:20:16"
+        },
+        {
+            "name": "GIA_SeaGanoderma_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_SeaGanoderma_1.py",
+            "title": "GIA_SeaGanoderma_1",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "使用`酒馆路径转任务`的自定义任务",
+            "note": "\n 必须需要纳西妲 Nahida must be needed",
+            "last_update": "2023-12-10 10:20:17",
+            "create_time": "2023-12-10 10:20:17"
         }
     ]
 }
