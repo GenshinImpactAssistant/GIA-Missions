@@ -34,32 +34,6 @@
             "create_time": "2023-06-04 01:58:26"
         },
         {
-            "name": "MissionJueyunChili",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionJueyunChili.py",
-            "title": "采集绝云椒椒",
-            "author": "GIA",
-            "tags": [
-                "采集"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-06-04 03:06:41",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
-            "name": "MissionSilkFlower",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSilkFlower.py",
-            "title": "采集霓裳花1",
-            "author": "GIA",
-            "tags": [
-                "采集"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-06-04 03:06:41",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
             "name": "MissionSweatFlower1",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSweatFlower1.py",
             "title": "采集甜甜花1",
@@ -73,35 +47,9 @@
             "create_time": "2023-06-04 03:06:41"
         },
         {
-            "name": "MissionVioletgrass1",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass1.py",
-            "title": "采集琉璃袋1",
-            "author": "GIA",
-            "tags": [
-                "采集"
-            ],
-            "description": "",
-            "note": "not recommend",
-            "last_update": "2023-06-04 03:06:41",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
-            "name": "MissionCecilia",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCecilia.py",
-            "title": "采集塞西莉亚花",
-            "author": "GIA",
-            "tags": [
-                "采集"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-06-04 03:16:15",
-            "create_time": "2023-06-04 03:06:41"
-        },
-        {
-            "name": "MissionVioletgrass3",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
-            "title": "采集琉璃袋3",
+            "name": "MissionJueyunChili",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionJueyunChili.py",
+            "title": "采集绝云椒椒",
             "author": "GIA",
             "tags": [
                 "采集"
@@ -135,6 +83,58 @@
             "description": "",
             "note": "",
             "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionVioletgrass3",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass3.py",
+            "title": "采集琉璃袋3",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionVioletgrass1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionVioletgrass1.py",
+            "title": "采集琉璃袋1",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "not recommend",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionSilkFlower",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionSilkFlower.py",
+            "title": "采集霓裳花1",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:06:41",
+            "create_time": "2023-06-04 03:06:41"
+        },
+        {
+            "name": "MissionCecilia",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionCecilia.py",
+            "title": "采集塞西莉亚花",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-06-04 03:16:15",
             "create_time": "2023-06-04 03:06:41"
         },
         {
@@ -190,6 +190,19 @@
             "create_time": "2023-11-01 18:28:16"
         },
         {
+            "name": "MissionGuiDouChong1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGuiDouChong1.py",
+            "title": "采集鬼兜虫",
+            "author": "人帅被人欺",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2023-11-01 18:28:16",
+            "create_time": "2023-11-01 18:28:16"
+        },
+        {
             "name": "MissionGuiDouChong",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGuiDouChong.py",
             "title": "采集鬼兜虫",
@@ -206,19 +219,6 @@
             "name": "MissionDuDuLian",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionDuDuLian.py",
             "title": "采集嘟嘟莲",
-            "author": "人帅被人欺",
-            "tags": [
-                "采集"
-            ],
-            "description": "",
-            "note": "",
-            "last_update": "2023-11-01 18:28:16",
-            "create_time": "2023-11-01 18:28:16"
-        },
-        {
-            "name": "MissionGuiDouChong1",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/MissionGuiDouChong1.py",
-            "title": "采集鬼兜虫",
             "author": "人帅被人欺",
             "tags": [
                 "采集"
@@ -255,6 +255,19 @@
             "create_time": "2023-12-10 10:20:17"
         },
         {
+            "name": "GIA_artifact_LiYue_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_artifact_LiYue_1.py",
+            "title": "采集圣遗物-璃月大坑及房屋",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-07-24 10:56:01",
+            "create_time": "2024-07-24 10:56:01"
+        },
+        {
             "name": "GIA_artifact_Mondstadt_SalTerrae_1",
             "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_artifact_Mondstadt_SalTerrae_1.py",
             "title": "采集圣遗物-地中之盐",
@@ -268,17 +281,108 @@
             "create_time": "2024-07-24 10:56:01"
         },
         {
-            "name": "GIA_artifact_LiYue_1",
-            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_artifact_LiYue_1.py",
-            "title": "采集圣遗物-璃月大坑及房屋",
+            "name": "GIA_Mondstadt_Samachurl_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Mondstadt_Samachurl_1.py",
+            "title": "采集蒙德苍风高地附近1个丘丘萨满",
+            "author": "GIA",
+            "tags": [
+                "战斗"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-09 13:44:31",
+            "create_time": "2024-08-09 13:44:31"
+        },
+        {
+            "name": "GIA_AnemoCrystalfly_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_AnemoCrystalfly_1.py",
+            "title": "采集无相之雷到达达乌帕谷的风晶蝶",
             "author": "GIA",
             "tags": [
                 "采集"
             ],
             "description": "",
             "note": "",
-            "last_update": "2024-07-24 10:56:01",
-            "create_time": "2024-07-24 10:56:01"
+            "last_update": "2024-08-09 13:44:31",
+            "create_time": "2024-08-09 13:44:31"
+        },
+        {
+            "name": "GIA_Mondstadt_Samachurl_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Mondstadt_Samachurl_2.py",
+            "title": "采集蒙德苍风高地，邻近悬崖附近1个丘丘萨满",
+            "author": "GIA",
+            "tags": [
+                "战斗"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-09 13:44:31",
+            "create_time": "2024-08-09 13:44:31"
+        },
+        {
+            "name": "GIA_Collect_LakelightLily_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Collect_LakelightLily_1.py",
+            "title": "采集湖光铃兰",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "采集伊黎耶林区传送锚点附近3个湖光铃兰，试试新版GIA任务生成功能",
+            "note": "干就完了",
+            "last_update": "2024-08-09 13:44:31",
+            "create_time": "2024-08-09 13:44:31"
+        },
+        {
+            "name": "GIA_Artifact_CuijueSlope_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Artifact_CuijueSlope_1.py",
+            "title": "圣遗物采集-璃月翠玦坡",
+            "author": "GIA",
+            "tags": [
+                "圣遗物"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-09 13:44:31",
+            "create_time": "2024-08-09 13:44:31"
+        },
+        {
+            "name": "GIA_Collect_LakelightLily_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Collect_LakelightLily_2.py",
+            "title": "采集湖中垂柳左边的湖光铃兰",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-09 13:44:31",
+            "create_time": "2024-08-09 13:44:31"
+        },
+        {
+            "name": "GIA_Mondstadt_Samachurl_3",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Mondstadt_Samachurl_3.py",
+            "title": "采集蒙德坠星山谷，向北2个丘丘萨满",
+            "author": "GIA",
+            "tags": [
+                "战斗"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-09 13:44:31",
+            "create_time": "2024-08-09 13:44:31"
+        },
+        {
+            "name": "GIA_Slime_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Slime_2.py",
+            "title": "采集酒庄右边一些史莱姆",
+            "author": "GIA",
+            "tags": [
+                "战斗"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-09 13:44:31",
+            "create_time": "2024-08-09 13:44:31"
         }
     ]
 }
