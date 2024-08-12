@@ -383,6 +383,201 @@
             "note": "",
             "last_update": "2024-08-09 13:44:31",
             "create_time": "2024-08-09 13:44:31"
+        },
+        {
+            "name": "GIA_GeovishapHatchling_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_GeovishapHatchling_2.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyueElectroCicinMage_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueElectroCicinMage_2.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyueRuinGuard_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueRuinGuard_2.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_SumeruRuinGuard_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_SumeruRuinGuard_2.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyueElectroCicinMage_3",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueElectroCicinMage_3.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyueHilichurl_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueHilichurl_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyuetWhopperflower_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyuetWhopperflower_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyueFatuiPyroAgent_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueFatuiPyroAgent_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyueGeoCrystalfly_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueGeoCrystalfly_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_MondstadtWhopperflower_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_MondstadtWhopperflower_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_GeovishapHatchling_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_GeovishapHatchling_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyueElectroCicinMage_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueElectroCicinMage_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LiyueRuinGuard_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueRuinGuard_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_SumeruRuinGuard_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_SumeruRuinGuard_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_MondstadtRuinGuard_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_MondstadtRuinGuard_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-12 07:53:19",
+            "create_time": "2024-08-12 07:53:19"
         }
     ]
 }
