@@ -578,6 +578,123 @@
             "note": "",
             "last_update": "2024-08-12 07:53:19",
             "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LumidouceBell_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LumidouceBell_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_MondstadtCrystalChunk_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_MondstadtCrystalChunk_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Mineral"
+            ],
+            "description": "挖挖挖挖挖挖挖挖挖挖挖挖挖挖挖",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_LiyueTreasureHoarders_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueTreasureHoarders_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_LiyueMitachurl_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueMitachurl_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_RainbowRose_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_RainbowRose_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_NilotpalaLotus_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_NilotpalaLotus_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_MondstadtAbyssMage_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_MondstadtAbyssMage_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_LiyueAbyssMage_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueAbyssMage_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Combat"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_RomaritimeFlower_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_RomaritimeFlower_1.py",
+            "title": null,
+            "author": "GIA",
+            "tags": [
+                "Collect"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
         }
     ]
 }

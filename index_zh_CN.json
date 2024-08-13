@@ -578,6 +578,123 @@
             "note": "",
             "last_update": "2024-08-12 07:53:19",
             "create_time": "2024-08-12 07:53:19"
+        },
+        {
+            "name": "GIA_LumidouceBell_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LumidouceBell_1.py",
+            "title": "采集秋分山西侧2个柔灯铃",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_MondstadtCrystalChunk_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_MondstadtCrystalChunk_1.py",
+            "title": "水晶块-蒙德望风山地东南2个",
+            "author": "GIA",
+            "tags": [
+                "Mineral"
+            ],
+            "description": "挖挖挖挖挖挖挖挖挖挖挖挖挖挖挖",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_LiyueTreasureHoarders_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueTreasureHoarders_1.py",
+            "title": "盗宝团-璃月璃沙郊若干",
+            "author": "GIA",
+            "tags": [
+                "战斗"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_LiyueMitachurl_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueMitachurl_1.py",
+            "title": "丘丘暴徒-璃月璃沙郊2个",
+            "author": "GIA",
+            "tags": [
+                "战斗"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_RainbowRose_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_RainbowRose_1.py",
+            "title": "采集苍晶区3个虹彩蔷薇",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_NilotpalaLotus_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_NilotpalaLotus_1.py",
+            "title": "月莲-须弥护世森13个",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_MondstadtAbyssMage_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_MondstadtAbyssMage_1.py",
+            "title": "深渊法师-蒙德苍风高地西侧1个",
+            "author": "GIA",
+            "tags": [
+                "战斗"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_LiyueAbyssMage_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueAbyssMage_1.py",
+            "title": "深渊法师-璃月瑶光滩2个",
+            "author": "GIA",
+            "tags": [
+                "战斗"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_RomaritimeFlower_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_RomaritimeFlower_1.py",
+            "title": "采集优兰尼娅湖西侧2个海露花",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-13 14:03:20",
+            "create_time": "2024-08-13 14:03:20"
         }
     ]
 }
