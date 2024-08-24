@@ -695,6 +695,292 @@
             "note": "",
             "last_update": "2024-08-13 14:03:20",
             "create_time": "2024-08-13 14:03:20"
+        },
+        {
+            "name": "GIA_SangoPearl_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_SangoPearl_1.py",
+            "title": "珊瑚真珠采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_LiyueCrystalChunk_3",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueCrystalChunk_3.py",
+            "title": "水晶矿-璃月渌华池1个",
+            "author": "GIA",
+            "tags": [
+                "Mineral"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_JueyunChili_202401",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_JueyunChili_202401.py",
+            "title": "绝云椒椒采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_SubdetectionUnit_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_SubdetectionUnit_1.py",
+            "title": "子探测单元采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_Padisarah_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Padisarah_1.py",
+            "title": "帕蒂沙兰采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_MourningFlower_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_MourningFlower_1.py",
+            "title": "悼灵花采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_RukkhashavaMushrooms_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_RukkhashavaMushrooms_1.py",
+            "title": "树王圣体菇采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_LiyueCrystalChunk_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LiyueCrystalChunk_2.py",
+            "title": "水晶矿-璃月渌华池东北3个",
+            "author": "GIA",
+            "tags": [
+                "Mineral"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_Wolfhook_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Wolfhook_1.py",
+            "title": "钩钩果采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_GlazeLily_202401",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_GlazeLily_202401.py",
+            "title": "琉璃百合采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_LumidouceBell_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_LumidouceBell_2.py",
+            "title": "柔灯铃采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_Scarab_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Scarab_1.py",
+            "title": "圣金虫采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_Dendrobium_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Dendrobium_1.py",
+            "title": "血斛采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_RomaritimeFlower_2",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_RomaritimeFlower_2.py",
+            "title": "海露花采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_SmallLampGrass_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_SmallLampGrass_1.py",
+            "title": "小灯草采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_Redcrest_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Redcrest_1.py",
+            "title": "赤念果采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_PhilanemoMushroom_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_PhilanemoMushroom_1.py",
+            "title": "慕风蘑菇采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_CallaLily_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_CallaLily_1.py",
+            "title": "嘟嘟莲采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_Cecilia_202401",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Cecilia_202401.py",
+            "title": "塞西莉亚花采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_AmakumoFruit_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_AmakumoFruit_1.py",
+            "title": "天云草实采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_Lumitoile_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Lumitoile_1.py",
+            "title": "幽光星星采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
+        },
+        {
+            "name": "GIA_Trishiraite_1",
+            "url": "https://github.com/GenshinImpactAssistant/GIA-Missions/blob/main/missions/GIA_Trishiraite_1.py",
+            "title": "万相石采集",
+            "author": "GIA",
+            "tags": [
+                "采集"
+            ],
+            "description": "",
+            "note": "",
+            "last_update": "2024-08-24 14:37:51",
+            "create_time": "2024-08-24 14:37:51"
         }
     ]
 }
